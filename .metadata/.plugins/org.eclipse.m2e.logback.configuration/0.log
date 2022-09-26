@@ -3083,3 +3083,11 @@
 2022-09-23 10:59:58,977 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-23 10:59:58,977 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-09-23 10:59:58,977 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SpringTools\WorkSpace\spring-boot-di\src\test\resources
+2022-09-26 10:53:53,955 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-26 10:55:14,949 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 10:55:14,950 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 10:55:14,953 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-26 10:55:14,977 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-26 10:55:14,982 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 10:55:14,982 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 10:55:14,982 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SpringTools\WorkSpace\spring-boot-di\src\test\resources
